@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "133b6562-ebbe-43ff-b213-d33a44d62a84": {
+      "ProjectGuid": "133b6562-ebbe-43ff-b213-d33a44d62a84",
+      "DisplayName": "Caculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

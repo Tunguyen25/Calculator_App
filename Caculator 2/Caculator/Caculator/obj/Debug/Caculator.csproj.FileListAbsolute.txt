@@ -1,0 +1,37 @@
+D:\LTGD\Caculator\Caculator\bin\Debug\Caculator.exe.config
+D:\LTGD\Caculator\Caculator\bin\Debug\Caculator.exe
+D:\LTGD\Caculator\Caculator\bin\Debug\Caculator.pdb
+D:\LTGD\Caculator\Caculator\obj\Debug\Caculator.csproj.AssemblyReference.cache
+D:\LTGD\Caculator\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+D:\LTGD\Caculator\Caculator\obj\Debug\Caculator.csproj.GenerateResource.cache
+D:\LTGD\Caculator\Caculator\obj\Debug\Caculator.csproj.CoreCompileInputs.cache
+D:\LTGD\Caculator\Caculator\obj\Debug\Caculator.exe
+D:\LTGD\Caculator\Caculator\obj\Debug\Caculator.pdb
+D:\LTGD\Caculator\Caculator\obj\Debug\Caculator.FrmStandard.resources
+D:\LTGD\Caculator\Caculator\obj\Debug\Caculator.FrmSci.resources
+C:\Users\Admin\Desktop\LTGD\Caculator 2\Caculator\Caculator\bin\Debug\Caculator.exe.config
+C:\Users\Admin\Desktop\LTGD\Caculator 2\Caculator\Caculator\bin\Debug\Caculator.exe
+C:\Users\Admin\Desktop\LTGD\Caculator 2\Caculator\Caculator\bin\Debug\Caculator.pdb
+C:\Users\Admin\Desktop\LTGD\Caculator 2\Caculator\Caculator\obj\Debug\Caculator.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\LTGD\Caculator 2\Caculator\Caculator\obj\Debug\Caculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\LTGD\Caculator 2\Caculator\Caculator\obj\Debug\Caculator.FrmSci.resources
+C:\Users\Admin\Desktop\LTGD\Caculator 2\Caculator\Caculator\obj\Debug\Caculator.FrmStandard.resources
+C:\Users\Admin\Desktop\LTGD\Caculator 2\Caculator\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+C:\Users\Admin\Desktop\LTGD\Caculator 2\Caculator\Caculator\obj\Debug\Caculator.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\LTGD\Caculator 2\Caculator\Caculator\obj\Debug\Caculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\LTGD\Caculator 2\Caculator\Caculator\obj\Debug\Caculator.exe
+C:\Users\Admin\Desktop\LTGD\Caculator 2\Caculator\Caculator\obj\Debug\Caculator.pdb
+C:\Users\Admin\Desktop\LTGD\Caculator 2\Caculator\Caculator\obj\Debug\Caculator.CalenderCalcs.resources
+C:\Users\Acer\OneDrive\code\Caculator 2\Caculator\Caculator\bin\Debug\Caculator.exe.config
+C:\Users\Acer\OneDrive\code\Caculator 2\Caculator\Caculator\bin\Debug\Caculator.exe
+C:\Users\Acer\OneDrive\code\Caculator 2\Caculator\Caculator\bin\Debug\Caculator.pdb
+C:\Users\Acer\OneDrive\code\Caculator 2\Caculator\Caculator\obj\Debug\Caculator.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\code\Caculator 2\Caculator\Caculator\obj\Debug\Caculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\OneDrive\code\Caculator 2\Caculator\Caculator\obj\Debug\Caculator.CalenderCalcs.resources
+C:\Users\Acer\OneDrive\code\Caculator 2\Caculator\Caculator\obj\Debug\Caculator.FrmSci.resources
+C:\Users\Acer\OneDrive\code\Caculator 2\Caculator\Caculator\obj\Debug\Caculator.FrmStandard.resources
+C:\Users\Acer\OneDrive\code\Caculator 2\Caculator\Caculator\obj\Debug\Caculator.Properties.Resources.resources
+C:\Users\Acer\OneDrive\code\Caculator 2\Caculator\Caculator\obj\Debug\Caculator.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\code\Caculator 2\Caculator\Caculator\obj\Debug\Caculator.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\code\Caculator 2\Caculator\Caculator\obj\Debug\Caculator.exe
+C:\Users\Acer\OneDrive\code\Caculator 2\Caculator\Caculator\obj\Debug\Caculator.pdb
